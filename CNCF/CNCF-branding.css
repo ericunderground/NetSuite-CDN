@@ -1,0 +1,14 @@
+:root {
+  --main-color-dark: #002C62;
+  --main-color-light: #D5B375;
+  --main-color-dark2: #ACA434;
+  --secondary-color-light:;
+  --secondary-color-dark:;
+  --logo-URL: url('header-logo.png');
+  --secondary-color-light:;
+  --secondary-color-dark:;
+}
+
+#logo{
+  content: var(--logo-URL);
+}
