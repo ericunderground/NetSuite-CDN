@@ -1,10 +1,10 @@
 :root {
-  --main-color-dark: #0E50A0;
-  --main-color-light: #7BB0D3;
-  --main-color-dark2: #002070;
-  --secondary-color-light:#FFC910;
+  --main-color-dark: #FF6900;
+  --main-color-light: #00B2A9;
+  --main-color-dark2: #303E48;
+  --secondary-color-light:#00B2A9;
   --secondary-color-dark:;
-  --logo-URL: url('header-logo.jpg');
+  --logo-URL: url('header-logo.png');
   --secondary-color-light:;
   --secondary-color-dark:;
 }
